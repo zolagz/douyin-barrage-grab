@@ -1,0 +1,2 @@
+24984d7efa46a17bc1b59c4f5e2259007eda094e1f56426c8fc33fa11fdc8ac7  douyin-barrage-grab-macos.dmg
+7bb14b3a36a5b04324b602c9cf82f85109c32776d90fa08e11128790001c0f99  douyin-barrage-grab-windows-x64.zip
